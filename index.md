@@ -1,6 +1,6 @@
 ## Welcome to Kornkit Kitsomsub's Github.io Page!
 
-Hi! Welcome to my page. My name is Kornkit, or Kit for short. I am a senior studying Mathematics at New York University (NYU).
+Hi! Thank you for visiting my page. My name is Kornkit, or Kit for short. I am a senior studying Mathematics at New York University (NYU). 
 
 
 
