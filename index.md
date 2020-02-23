@@ -1,4 +1,10 @@
-## Welcome to GitHub Pages
+## Welcome to Kornkit Kitsomsub's Github.io Page!
+
+Hi! Welcome to my page. My name is Kornkit, or Kit for short. I am a senior studying Mathematics at New York University (NYU).
+
+
+
+
 
 You can use the [editor on GitHub](https://github.com/kkitsomsub/kkitsomsub.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
