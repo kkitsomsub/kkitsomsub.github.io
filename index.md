@@ -6,7 +6,7 @@ My current interests are in Data Science and Machine Learning. I am currently en
 
 You can visit this link to look at some of my past modeling projects.
 
-I can be reached at **kornkit.kitsomsub (at) nyu.edu**.
+I can be reached at **kornkit.kitsomsub@nyu.edu**.
 
 
 
