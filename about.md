@@ -9,4 +9,4 @@ University.
 Some of my hobbies are:
 
 * Technical & Cave Diving (Scuba Diving)
-  * As a kid, my dream was to become an astronaut! However, I started diving in 2018. 
+  [![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/fHTQvwW0kMI/0.jpg)](http://www.youtube.com/watch?v=fHTQvwW0kMI)
