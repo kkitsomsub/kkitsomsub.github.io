@@ -2,7 +2,7 @@
 
 Here, you can find some of the past projects that I have worked on throughout my undergraduate career:
 
-* *BERTMoji: RoBERTa for Emoji Prediction
+* BERTMoji: RoBERTa for Emoji Prediction
   * [Paper (Unpublished - written for an undergraduate class)](https://drive.google.com/file/d/15pCXuuXyVsKYQDZ37r2uZbvuvj40JtVQ/view?usp=sharing)
 
 * *Modeling a Spinning Coin Project (Coded in Matlab)* 
